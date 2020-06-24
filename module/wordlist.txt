@@ -1,2 +1,5 @@
-add your wordlist here
-minim of 5 line
+Password.txt
+Pass.txt
+Pword.txt
+Word.txt
+Pword.txt
